@@ -1,0 +1,21 @@
+{
+  "cssTheme": "Border",
+  "accentColor": "#a1a1a1",
+  "textFontFamily": "Kanit Extra Light",
+  "monospaceFontFamily": "Courier New",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "card-tag-color",
+    "main",
+    "main-render",
+    "code-color-dark",
+    "code-color-light",
+    "card-tag",
+    "code-style",
+    "code-scrolling",
+    "img-grid"
+  ]
+}

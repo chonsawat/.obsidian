@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a5b988a5d2f6dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0440b5725566aacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_Draft/Spring - AOP.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring - AOP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0934137250c6f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "38d72a319c2f6baa",
+        "type": "tabs",
+        "dimension": 60.02460024600246,
+        "children": [
+          {
+            "id": "7aa3af5b239889bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a726401a566bfa7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aop",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "514de59de5e55ac2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cbdb704a2783f7dc",
+        "type": "tabs",
+        "dimension": 39.97539975399754,
+        "children": [
+          {
+            "id": "ba6d18752e1e8a20",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "right": {
+    "id": "c1ba1d4acd5d1d27",
+    "type": "split",
+    "children": [
+      {
+        "id": "396f0fa4ddaff877",
+        "type": "tabs",
+        "dimension": 52.129629629629626,
+        "children": [
+          {
+            "id": "4ec4f5127d1cb4d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "020_Daily/2025-11-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-11-07"
+            }
+          },
+          {
+            "id": "082f6e414cbf8cf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "020_Daily/2025-05-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-05-19"
+            }
+          },
+          {
+            "id": "1797187f52a1b205",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "73d490c1eb8785b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "020_Daily/2025-11-07.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-11-07"
+            }
+          },
+          {
+            "id": "a83886f2ccdce38d",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "020_Daily/2025-11-07.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "f3792bd93bf140a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "030_Task/Mission.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mission"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "30cc91eef7511bf5",
+        "type": "tabs",
+        "dimension": 47.87037037037037,
+        "children": [
+          {
+            "id": "f7e635edca49d3dc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d141002e2dfa4c85",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "iconic:Open rulebook": true,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "darlal-switcher-plus:Open in Headings Mode": true,
+      "darlal-switcher-plus:Open Symbols for the active editor": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "7aa3af5b239889bf",
+  "lastOpenFiles": [
+    "020_Daily/2025-11-19.md",
+    "000_Draft/Spring - AOP.md",
+    "030_Task/Mission.md",
+    "000_Draft/Programming/Springs/Spring Udemy - Draft.md",
+    "010_Readthrough/Spring/Spring Core Technology.md",
+    "010_Readthrough/Spring/Spring.md",
+    "000_Draft/Programming/Vim tutorial.md",
+    "000_Draft/Programming/Git.md",
+    "020_Daily/2025-11-09.md",
+    "000_Draft/Gamming/Minecraft Mod.md",
+    "000_Draft/Welcome.md",
+    "998_Attachment/000_Draft/Programming/Windows - Environment String",
+    "000_Draft/Gamming/Stardew Create Mod.md",
+    "000_Draft/Gamming",
+    "000_Draft/Untitled.base",
+    "999_Template/Theme - Marker.md",
+    "998_Attachment/050_Personal/Rap my Rhyme",
+    "998_Attachment/050_Personal/Music",
+    "998_Attachment/050_Personal",
+    "000_Draft/Programming/Java.md",
+    "050_Personal/My Music List.md",
+    "998_Attachment/000_Draft/Programming/Springs/Spring Udemy - Draft",
+    "998_Attachment/000_Draft/Programming/Springs",
+    "998_Attachment/000_Draft/Programming",
+    "000_Draft/Programming",
+    "000_Draft/000_English/Article.md",
+    "000_Draft/000_English/English - แต่งประโยค.md",
+    "000_Draft/Programming/Springs/Spring - Build JAR.md",
+    "050_Personal/Address.md",
+    "000_Draft/000_English/Determiners.md",
+    "000_Draft/000_English/English.md",
+    "010_Readthrough/Jenkins/Embed/User Management.md",
+    "998_Attachment/000_Draft/Programming/Springs/Spring Udemy - Draft/IMG-20251109203128583.webp",
+    "010_Readthrough/Spring/Spring Authentication.md",
+    "000_Draft/2025-11-07.md",
+    "020_Daily/2025-11-07.md",
+    "999_Template/Daily - Template.md",
+    "998_Attachment/JmahjbJfcE.webp",
+    "998_Attachment/image-2.webp",
+    "998_Attachment/010_Readthrough/Tax/Embed Note/การหักค่าลดหย่อน/IMG-20251109122714797.webp",
+    "998_Attachment/010_Readthrough/Tax/Embed Note/E-Filling/IMG-20251109122714340.webp",
+    "998_Attachment/010_Readthrough/Tax/Embed Note/E-Filling/IMG-20251109122714226.webp",
+    "998_Attachment/010_Readthrough/Tax/Embed Note/E-Filling/IMG-20251109122714101.webp",
+    "998_Attachment/010_Readthrough/Jenkins/Embed/User Management/IMG-20251109122713835.webp",
+    "998_Attachment/010_Readthrough/Jenkins/Embed/User Management/IMG-20251109122713779.webp",
+    "998_Attachment/010_Readthrough/Jenkins/Embed/User Management/IMG-20251109122713669.webp",
+    "Digital Mytax.canvas",
+    "010_Readthrough/Tax/Digital Mytax.canvas",
+    "HomePage_Canvas.canvas"
+  ]
+}

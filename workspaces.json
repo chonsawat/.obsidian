@@ -1,0 +1,212 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "fecbb20fa0252a3c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "abce718b1ab245b7",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "040_HomePage/Home.base",
+                    "viewName": "Table"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Home"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a0934137250c6f14",
+        "type": "split",
+        "children": [
+          {
+            "id": "38d72a319c2f6baa",
+            "type": "tabs",
+            "dimension": 60.02460024600246,
+            "children": [
+              {
+                "id": "7aa3af5b239889bf",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "6a726401a566bfa7",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "514de59de5e55ac2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cbdb704a2783f7dc",
+            "type": "tabs",
+            "dimension": 39.97539975399754,
+            "children": [
+              {
+                "id": "ba6d18752e1e8a20",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 263.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "c1ba1d4acd5d1d27",
+        "type": "split",
+        "children": [
+          {
+            "id": "396f0fa4ddaff877",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ec4f5127d1cb4d0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Java.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Java"
+                }
+              },
+              {
+                "id": "082f6e414cbf8cf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "020_Daily/2025-05-19.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-05-19"
+                }
+              },
+              {
+                "id": "1797187f52a1b205",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "73d490c1eb8785b8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "020_Daily/2025-05-19.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-05-19"
+                }
+              },
+              {
+                "id": "a83886f2ccdce38d",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {},
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "darlal-switcher-plus:Open in Headings Mode": true,
+          "darlal-switcher-plus:Open Symbols for the active editor": true,
+          "audio-recorder:Start/stop recording": false,
+          "obsidian-excalidraw-plugin:New drawing": false
+        }
+      },
+      "active": "abce718b1ab245b7",
+      "mtime": "2025-10-03T00:48:04+07:00"
+    }
+  },
+  "active": "Home"
+}

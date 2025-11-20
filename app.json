@@ -1,0 +1,26 @@
+{
+  "attachmentFolderPath": "998_Attachment",
+  "userIgnoreFilters": [
+    "998_Attachment/*+.webp"
+  ],
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "autoPairBrackets": true,
+  "spellcheck": false,
+  "showLineNumber": false,
+  "propertiesInDocument": "hidden",
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000_Draft",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "vimMode": false,
+  "showInlineTitle": true
+}

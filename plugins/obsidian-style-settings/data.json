@@ -1,0 +1,19 @@
+{
+  "minimal-style@@minimal-code-scroll": true,
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-advanced@@animations": "fast-animations",
+  "minimal-advanced@@cursor": "default",
+  "minimal-advanced@@font-ui-small": 12,
+  "minimal-advanced@@font-ui-smaller": 10,
+  "minimal-style@@link-external-color@@dark": "#90D23A",
+  "minimal-style@@link-external-color@@light": "#21A4C5",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@card-border-radius-dark": "5px",
+  "Appearance-dark@@card-highlight-dark": true,
+  "Components@@tab-autohide": false,
+  "Components@@status-bar-autohide": false,
+  "Components@@nav-header-autohide": false,
+  "Appearance-dark@@accent-color-override-dark": false,
+  "Appearance-dark@@accent-dark": "#656565"
+}
